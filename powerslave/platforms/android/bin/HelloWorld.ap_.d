@@ -20,7 +20,6 @@
 /Users/cliente/Documents/Lucas/phonegap-playground/powerslave/platforms/android/assets/www/img \
 /Users/cliente/Documents/Lucas/phonegap-playground/powerslave/platforms/android/assets/www/index.html \
 /Users/cliente/Documents/Lucas/phonegap-playground/powerslave/platforms/android/assets/www/js \
-/Users/cliente/Documents/Lucas/phonegap-playground/powerslave/platforms/android/assets/www/phonegap.js \
 /Users/cliente/Documents/Lucas/phonegap-playground/powerslave/platforms/android/assets/www/res \
 /Users/cliente/Documents/Lucas/phonegap-playground/powerslave/platforms/android/assets/www/spec \
 /Users/cliente/Documents/Lucas/phonegap-playground/powerslave/platforms/android/assets/www/spec.html \
